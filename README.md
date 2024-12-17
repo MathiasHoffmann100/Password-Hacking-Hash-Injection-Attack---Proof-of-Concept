@@ -21,8 +21,7 @@ Next, both the LM and NT hashes are copied, and a new variable (HASH) is created
  
 In this step, the pth-winexe command is used to execute commands remotely on the target system.
 
-![image](https://github.com/user-attachments/assets/bebade01-69e5-4016-8f88-2969d260532d)
-![image](https://github.com/user-attachments/assets/282c0e83-fbee-4b0f-84b9-2c0934583f32)
+![image](https://github.com/user-attachments/assets/ed2f0be2-dcc3-44f7-953e-0e500c79e9c2)
 
 Once the pth-winexe command is successfully executed, remote access to the target system should be granted. Once inside, we have full control over the system, including the ability to:
 •	Modify, read, and delete files.
