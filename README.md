@@ -1,4 +1,4 @@
-# Password-Hacking-Hash-Injection-Attack---Proof-of-Concept
+# Password-Hacking-Hash-Injection-Attack - Proof-of-Concept
 A hash injection attack involves injecting a hash value (such as NTLM or LM hashes in Windows environments) directly into an authentication process without needing to crack it. This technique exploits the trust a system places in valid hash values, allowing attackers to impersonate legitimate users.
 
 Extracting Credentials Using fgdump: First, by executing fgdump on the target (after downloading and extracting it on the target), a file is generated in the same location as the fgdump.exe file. This file contains the results of the credential extraction process.
