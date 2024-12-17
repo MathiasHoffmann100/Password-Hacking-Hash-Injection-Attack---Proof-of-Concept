@@ -24,12 +24,21 @@ In this step, the pth-winexe command is used to execute commands remotely on the
 ![image](https://github.com/user-attachments/assets/ed2f0be2-dcc3-44f7-953e-0e500c79e9c2)
 
 Once the pth-winexe command is successfully executed, remote access to the target system should be granted. Once inside, we have full control over the system, including the ability to:
+
 •	Modify, read, and delete files.
+
 •	Change system configurations and settings.
+
 •	Install or remove software.
+
 •	Manage user accounts and permissions.
+
 •	Execute further commands or scripts.
+
 •	Transfer files between the target and our system.
+
 •	Collect system information, such as running processes, network settings, and hardware configurations.
+
 •	Access system logs and perform reconnaissance.
+
 Since we also have administrator rights, we can perform high-level actions like elevating privileges, disabling security features (such as antivirus or firewalls), and making persistent changes to maintain access to the target system.
