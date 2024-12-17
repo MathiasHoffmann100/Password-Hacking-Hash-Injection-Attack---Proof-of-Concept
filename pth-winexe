@@ -1,0 +1,5 @@
+pth-winexe -U TestUser% //192.168.2.58
+
+#But without variable, alternative:
+
+pth-winexe -U 'TestUser%aad3b435b51404eeaad3b435b51404ee:8c6977e5b5410415bde908bd4dee15df' //192.168.2.58
